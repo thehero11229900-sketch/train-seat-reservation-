@@ -10,8 +10,8 @@ based application , where user can book book tickets onlne for journey
 the main purpose is to provide relaiable and scalabe platform where user can search , book ticket , make payment
 
 3. SCOPE
-a) it should be reliable 
-b) it should be scalable 
+# a) it should be reliable 
+# b) it should be scalable 
 c) easy to under stand
 d) more efficient
 e) user friendly
