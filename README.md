@@ -3,7 +3,7 @@
 #1.INTRODUCTION 
 
 #1.train seat reservation system is web/online
-based application , where user can book book tickets onlne for journey
+based application , where user can book book tickets onlne for journey 
 
 #2.PURPOSE
 
@@ -33,7 +33,8 @@ based application , where user can book book tickets onlne for journey
 #e) more secure payment should be done
 
 
-#6) ACCEPTANCE CREAITIRIA
+#6) ACCEPTANCE CRITERIA
+
 #AC1 : user wants to book train seat from mysuru to delhi
 #AC2 : user login to app
 #AC3: user search for train for today
